@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=default&r=jp2" width="356" position="center" alt="Avishkar P's Dev Card"/></a>
-
 
 <h1 align="center">Hi 👋, I'm Avishkar Pagare</h1>
 <h3 align="centre">A passionate frontend developer from India.</h3>
@@ -22,6 +20,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Avi-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Avi-2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avi-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=wide&r=jp2" width="652" alt="Avishkar P's Dev Card"/></a>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
