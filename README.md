@@ -3,7 +3,7 @@
 <h3 align="centre">A passionate frontend developer from India.</h3><br/>
 <!-- <a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=wide&r=jp2" width="652" alt="Avishkar P's Dev Card"/></a> -->
 <a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=default&r=z7i" width="356" alt="Avishkar P's Dev Card"/></a>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> -->
 
 
 
