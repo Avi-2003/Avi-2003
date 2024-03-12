@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=default&r=jp2" width="356" alt="Avishkar P's Dev Card"/></a>
+<a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=default&r=jp2" width="356" position="center" alt="Avishkar P's Dev Card"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Avishkar Pagare</h1>
