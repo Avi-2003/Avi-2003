@@ -8,6 +8,7 @@
 <!-- <a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=wide&r=jp2" width="652" alt="Avishkar P's Dev Card"/></a> -->
 <span>
 <a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=default&r=1vp" width="356" alt="Avishkar P's Dev Card"/></a>
+  
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </span>
