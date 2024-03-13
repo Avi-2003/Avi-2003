@@ -4,7 +4,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avi-2003](https://github.com/Avi-2003)
 
-- 📫 How to reach me **avishkarpagare18@gmail.com** 
+- 📫 How to reach me **avishkarpagare18@gmail.com**
+  
 <a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=default&r=1vp" width="356" align="left" alt="Avishkar P's Dev Card"/></a>
 </span>
 
