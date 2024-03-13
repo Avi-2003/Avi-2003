@@ -1,11 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Avishkar Pagare</h1>
+<span><h1 align="center">Hi 👋, I'm Avishkar Pagare</h1>
 <h3 align="centre">A passionate frontend developer from India.</h3><br/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avi-2003](https://github.com/Avi-2003)
 
 - 📫 How to reach me **avishkarpagare18@gmail.com** 
 <!-- <a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=wide&r=jp2" width="652" alt="Avishkar P's Dev Card"/></a> -->
+</span>
+
 <span>
 <a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=default&r=1vp" width="356" alt="Avishkar P's Dev Card"/></a>
 </span>
