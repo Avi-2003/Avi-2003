@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **avishkarpagare18@gmail.com**
   
-<a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=wide&r=1vp" width="652" alt="Avishkar P's Dev Card"/></a>
+<a href="https://app.daily.dev/avishkarp"><img src="https://api.daily.dev/devcards/v2/iSRGZwWMN1L5LnkqEydTw.png?type=wide&r=obm" width="652" alt="Avishkar P's Dev Card"/></a>
 </span>
 
 <span>
